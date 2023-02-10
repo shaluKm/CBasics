@@ -14,6 +14,7 @@ char name[7]="Meghan";
 printf("%c\n", *name);
 
 printf("%p\n", address);
+printf("%p\n", address+1);
 printf("%u\n", *address);
 printf("%d\n", age);
 
